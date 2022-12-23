@@ -1,1 +1,1 @@
-Super is better that lower to upper slowly
+Super is better that lower to upper lazily.
